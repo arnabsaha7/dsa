@@ -128,8 +128,8 @@ Get a visual understanding of each traversal method with the GIFs below.
 
 | Traversal              | Traversal             | Traversal            |
 |------------------------|-----------------------|----------------------|
-| ![In-Order](dfs_traversal/img/in-order_traversal.gif) <br> **In-Order Traversal** | ![Pre-Order](dfs_traversal/img/pre-order_traversal.gif) <br> **Pre-Order Traversal** | ![Post-Order](dfs_traversal/img/post-order_traversal.gif) <br> **Post-Order Traversal** |
-| ![BFS](bfs_traversal/img/bfs_traversal.gif) <br> **BFS Traversal** |  |  |
+| ![In-Order](Traversal/dfs_traversal/img/in-order_traversal.gif) <br> **In-Order Traversal** | ![Pre-Order](Traversal/dfs_traversal/img/pre-order_traversal.gif) <br> **Pre-Order Traversal** | ![Post-Order](Traversal/dfs_traversal/img/post-order_traversal.gif) <br> **Post-Order Traversal** |
+| ![BFS](Traversal/bfs_traversal/img/bfs_traversal.gif) <br> **BFS Traversal** |  |  |
 
 ---
 
