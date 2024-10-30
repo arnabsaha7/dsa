@@ -36,7 +36,7 @@ Each problem is organized to help users:
 
 | Problem                       | Description                                      | Solution Link                         |
 |-------------------------------|--------------------------------------------------|---------------------------------------|
-| Maximum Depth or Height       | Calculate the height of a binary tree.           | [View Solution](max_depth/height.py)  |
+| Maximum Depth or Height       | Calculate the height of a binary tree.           | [View Solution](max_depth.py)  |
 | Binary Tree Traversals        | Perform pre-order, in-order, and post-order traversal. | [View Solution](traversals/traversals.py) |
 | Node Insertion                | Insert a node in a binary tree.                  | [View Solution](insert_node/insert.py) |
 | Binary Tree Level Order       | Traverse binary tree level-by-level.             | [View Solution](level_order/level_order.py) |
