@@ -1,5 +1,5 @@
 # **🌳 Binary Trees: Problems with Visuals 🌳**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.12%2B-blue?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Visualization-GIF-yellow?style=for-the-badge&logo=giphy"/>
   <img src="https://img.shields.io/github/contributors/arnabsaha7/dsa?style=for-the-badge&logo=answer"/>
