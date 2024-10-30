@@ -1,4 +1,4 @@
-# 🌳 **Trees in Data Structures and Algorithms**
+# 🌳 **Data Structures and Algorithms: Tree**
 
 Explore a comprehensive collection of **Tree Data Structures** topics, including different types of trees, traversal techniques, properties, and advanced operations. Perfect for anyone diving into trees for **data structures, algorithms, or interview prep**!
 
