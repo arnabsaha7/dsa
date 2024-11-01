@@ -3,7 +3,7 @@ This module demonstrates the **Breadth-First Search (BFS)** traversal for binary
 
 ---
 ### Traversal Type Covered
-- **BFS Traversal (Level-Order)**: Visits nodes level by level from the root.
+- **BFS Traversal (Level-Order)**: It visits nodes level by level from the root.
 
 The animated GIF provides a visual representation of the BFS traversal sequence, showing the nodes visited at each level.
 
